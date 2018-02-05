@@ -34,20 +34,26 @@ Which of the following is __NOT__ a computer program?
 
 ```yaml
 type: PureMultipleChoiceExercise
-key: 5acfc43ca9
+key: 6427a8d4de
 ```
+You'll be using the Python programming language in this course.
+Watch the first 50 seconds of the youtube video below (click on the image).
 
+[![EdX Python Course Thumbnail](https://i.ytimg.com/vi/Ti3e5BJwbL0/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ti3e5BJwbL0)
 
-`@instructions`
+The video is from another free online course hosted by DataCamp. If you would also like to enroll in that course follow this [link](https://www.datacamp.com/courses/intro-to-python-for-data-science).
 
-`@hint`
+To summarize:
+- Python is a general purpose programming language.
+- Python is often used for data-related tasks ([data science](https://en.wikipedia.org/wiki/Data_science)).
+- Python is [open source](https://en.wikipedia.org/wiki/Open-source_software), which means it is free for you to use.
 
-`@pre_exercise_code`
-```{python}
+True or False: To use Python, you must pay to optain a software license.
 
-```
+`@possible_answers`
+- True
+- [False (correct one)]
 
-`@sct`
-```{python}
-
-```
+`@feedbacks`
+- That is incorrect. Python is [open source](https://en.wikipedia.org/wiki/Open-source_software).
+- That is correct. Python is [open source](https://en.wikipedia.org/wiki/Open-source_software).
