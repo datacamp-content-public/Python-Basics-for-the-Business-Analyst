@@ -8,8 +8,6 @@ description: What is programming?
 type: MultipleChoiceExercise
 key: de2b6e6cf6
 lang: python
-xp: 50
-skills: 2
 ```
 Computer programming is a way for people to provide precise instructions to computers. In business, people create standard processes and procedures to ensure work is performed efficiently, and likewise, people can create computer programs so computers can complete tasks effectively.
 
