@@ -1,13 +1,12 @@
 ---
 title: Getting Started
-description: What is programming?
+description: Creating Computer Programs
 ---
-## Your First Program
+## What is Programming?
 
 ```yaml
 type: PureMultipleChoiceExercise
-key: de2b6e6cf6
-lang: python
+key: e644f1bcc3
 ```
 **Computer programming** is a way for people to provide precise instructions to computers. In business, people create standard processes and procedures to ensure work is performed efficiently, and likewise, people can create computer programs so computers can complete tasks effectively.
 
@@ -30,4 +29,25 @@ Which of the following is __NOT__ a computer program?
 - That is a computer program. The "Auto-Defrost" option contains instructions that are executed by the microwave when you select you.
 - That is a computer program. Device drivers contain instruction that tell your computer how to work with the connected device.
 
-___
+---
+## Python
+
+```yaml
+type: PureMultipleChoiceExercise
+key: 5acfc43ca9
+```
+
+
+`@instructions`
+
+`@hint`
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
