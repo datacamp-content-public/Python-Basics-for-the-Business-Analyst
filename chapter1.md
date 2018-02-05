@@ -37,7 +37,7 @@ type: PureMultipleChoiceExercise
 key: 6427a8d4de
 ```
 You'll be using the Python programming language in this course.
-Watch the first 50 seconds of the youtube video below (click on the image).
+Watch the first 50 seconds of the YouTube video below (click on the image).
 
 [![EdX Python Course Thumbnail](https://i.ytimg.com/vi/Ti3e5BJwbL0/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ti3e5BJwbL0)
 
