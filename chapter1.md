@@ -11,6 +11,9 @@ lang: python
 ```
 **Computer programming** is a way for people to provide precise instructions to computers. In business, people create standard processes and procedures to ensure work is performed efficiently, and likewise, people can create computer programs so computers can complete tasks effectively.
 
+![Computer Programming Meme](https://i.imgur.com/kxkJCeN.png])<br/><br/>
+[View on imgur](https://imgur.com/gallery/kxkJCeN)
+
 By viewing this course, you are benefitting from computer programs other people have created. For example, there are computer programs ensuring that each pixel in your computer screen is displaying the correct color to produce the image on the screen. When you move your mouse or trackpad, you see the cursor move on the screen because your computer contains computer programs that instruct it to reach to your mouse or trackpad movements. A key to identifying a computer program is to ask: "What/who is executing the instructions?" Computer programs are executed be computers or devices rather than human.
 
 Which of the following is __NOT__ a computer program?
@@ -19,7 +22,7 @@ Which of the following is __NOT__ a computer program?
 - Microsoft Excel
 - [Instructions posted on the company intranet for uploading approval forms (correct one)]
 - "Auto-Defrost" option on the microwave
-- [Device driver](https://en.wikipedia.org/wiki/Device_driver) for external gaming mouse
+- [Device driver](https://en.wikipedia.org/wiki/Device_driver) for external microphone
 
 `@feedbacks`
 - That is a computer program. Software applications are computer programs.
