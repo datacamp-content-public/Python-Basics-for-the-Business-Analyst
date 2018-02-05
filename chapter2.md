@@ -3,16 +3,20 @@ title: Getting Started
 description: What is programming?
 ---
 
+
+---
 ## Your First Program
 
 ```yaml
-type: NormalExercise
+type: MultipleChoiceExercise
+key: de2b6e6cf6
 lang: python
-key: f1bcf4b56c
+xp: 50
+skills: 2
 ```
-
 A computer programming is a way for people to provide precise instructions to computers. In business, people create standard processes and procedures to ensure work is performed efficiently, and likewise, people can create computer programs so computers can complete tasks effectively.
 
+By viewing this course, you are using computer programs other people have created. For example, there are computer programs ensuring that each pixel in your computer screen is displaying the correct color to produce the image on the screen. When you move your mouse or trackpad, you see the cursor move on the screen because your computer contains computer programs that instruct it to reach to your mouse or trackpad movements. 
 
 `@instructions`
 
@@ -23,73 +27,7 @@ A computer programming is a way for people to provide precise instructions to co
 
 ```
 
-`@sample_code`
-```{python}
-
-```
-
-`@solution`
-```{python}
-
-```
-
 `@sct`
-```{python}
-
-```
-
-
---- type:NormalExercise lang:python xp:100 skills:2 key:0e3b6844b8
-## <<<New Exercise>>>
-
-
-*** =instructions
-
-*** =hint
-
-*** =pre_exercise_code
-```{python}
-
-```
-
-*** =sample_code
-```{python}
-
-```
-
-*** =solution
-```{python}
-
-```
-
-*** =sct
-```{python}
-
-```
---- type:NormalExercise lang:python xp:100 skills:2 key:b9a02fc389
-## <<<New Exercise>>>
-
-
-*** =instructions
-
-*** =hint
-
-*** =pre_exercise_code
-```{python}
-
-```
-
-*** =sample_code
-```{python}
-
-```
-
-*** =solution
-```{python}
-
-```
-
-*** =sct
 ```{python}
 
 ```
