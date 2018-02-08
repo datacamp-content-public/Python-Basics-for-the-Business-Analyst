@@ -65,8 +65,6 @@ To summarize:
 ```yaml
 type: PureMultipleChoiceExercise
 key: e8ae241a14
-xp: 50
-skills: 2
 ```
 At this point, you have learned:
 - You can create computer programs to provide instructions for your computer to execute.
