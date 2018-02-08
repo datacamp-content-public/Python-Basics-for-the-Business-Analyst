@@ -1,4 +1,4 @@
-title: Python Basics for the Modern Business Analyst
+title: Python Basics for the Modern Desk-Job Worker
 description: Before Business Analysts can conduct analysis, they often must manipulate, process, and transform data into information. With the exponential growth of data and data sources available, traditional applications such as spreadsheet applications no longer provide all the tools needed to complete most tasks. In today's business environment, analysts who have basic programming skills can develop custom methods of handling data and have an advantage in the workplace. This course will introduce the python programming language and highlight a few ways it can be applied for business analysis.
 programming_language: python
 from: python-base-prod:20
