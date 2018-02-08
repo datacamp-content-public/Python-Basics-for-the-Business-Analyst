@@ -90,5 +90,3 @@ Through this course, you will learn Python skills that will allow you to automat
 `@feedbacks`
 - Good Job! [Here](https://blog.prototypr.io/beyond-code-why-you-should-learn-how-to-code-and-should-start-today-c7a544033f80) are some other reasons you may benefit from computer science!
 - Try again!
-
----
