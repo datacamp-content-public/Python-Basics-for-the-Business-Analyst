@@ -11,8 +11,7 @@ key: e644f1bcc3
 ```
 **Computer programming** is a way for people to provide precise instructions to computers. In business, people create standard processes and procedures to ensure work is performed efficiently, and likewise, people can create computer programs so computers can complete tasks effectively.
 
-![Computer Programming Meme](https://i.imgur.com/kxkJCeN.png)<br/><br/>
-[View on imgur](https://imgur.com/gallery/kxkJCeN)
+![Computer Programming Meme](https://imgur.com/kxkJCeN.png)
 
 By viewing this course, you are benefitting from computer programs other people have created. For example, there are computer programs ensuring that each pixel in your computer screen is displaying the correct color to produce the image on the screen. When you move your mouse or trackpad, you see the cursor move on the screen because your computer contains computer programs that instruct it to reach to your mouse or trackpad movements. A key to identifying a computer program is to ask: "What/who is executing the instructions?" Computer programs are executed be computers or devices rather than human.
 
