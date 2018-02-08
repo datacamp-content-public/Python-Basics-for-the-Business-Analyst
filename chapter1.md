@@ -19,7 +19,7 @@ By viewing this course, you are benefitting from computer programs other people 
 
 `@possible_answers`
 - Microsoft Excel
-- Instructions posted on the company intranet for uploading approval forms
+- [Instructions posted on the company intranet for uploading approval forms]
 - "Auto-Defrost" option on the microwave
 - [Device driver](https://en.wikipedia.org/wiki/Device_driver) for external microphone
 
@@ -52,7 +52,7 @@ To summarize:
 
 `@possible_answers`
 - True
-- False
+- [False]
 
 `@feedbacks`
 - That is incorrect. Python is [open source](https://en.wikipedia.org/wiki/Open-source_software).
@@ -81,7 +81,7 @@ Through this course, you will learn Python skills that will allow you to automat
 **Question** True or False: Business Analysts can benefit from having basic computer science skills.
 
 `@possible_answers`
-- True correct one
+- [True]
 - False
 
 `@feedbacks`
